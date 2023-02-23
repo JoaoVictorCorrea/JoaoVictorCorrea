@@ -2,17 +2,23 @@
 
 ![Snake animation](https://github.com/JoaoVictorCorrea/JoaoVictorCorrea/blob/output/github-contribution-grid-snake.svg)
 
-<p>Meu nome é Danilo Filitto, sou Mestre em Ciência da Computação pela Universidade Estadual de Maringá – UEM, Pós-Graduado em Redes de Computadores e Comunicação de Dados pela Universidade do Estado do Paraná – UEL, Bacharel em Ciência da Computação pela Universidade do Oeste Paulista – UNOESTE.
+<p>Meu nome é João Victor Corrêa, sou estudante de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Salto.
 
-Atuo na área acadêmica como professor desde 2006. Atualmente leciono no SENAC (Serviço Nacional de Aprendizagem Comercial) da cidade de Presidente Prudente. Além de professor sou desenvolvedor de jogos, palestrante e mantenedor dos sites <a href="https://www.dfilitto.com.br">DFILITTO</a> e <a href="https://www.makeindiegames.com.br">Make Indie Games</a>.
+Atualmente atuo dando suporte técnico ao ERP Tasy na Unimed Salto/Itu desde 2022, mas busco entrar no mercado de desenvolvimento atuando como desenvolvedor back-end. Hoje em dia meu foco está em aprender cada vez mais sobre a linguagem JAVA e tudo o que ela nos proporciona.</p>
 
-As Área de Pesquisa em qual atuo são: desenvolvimento de Softwares, estrutura de dados, processamento de imagens digitais, redes de computadores e desenvolvimento de jogos.</p>
+</br>
 
 <div>
-<a href="https://github.com/dfilitto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfilitto&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfilitto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/JoaoVictorCorrea">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorCorrea&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCorrea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
    
-<br />  
-<p>Clique no <a href="https://dfilitto.com.br/?p=15740">link</a> para aprender a criar a sua própria página de perfil.<p/>
+</br>
+   
+<div>
+<p align="right">
+  <a href="https://instagram.com/joaoo_correa25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3ovictorcorr%C3%AAa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+</div>
