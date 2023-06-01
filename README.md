@@ -4,7 +4,7 @@
 
 <p>Meu nome é João Victor Corrêa, sou estudante de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Salto.
 
-Atualmente atuo dando suporte técnico ao ERP Tasy na Unimed Salto/Itu desde 2022, mas busco entrar no mercado de desenvolvimento atuando como desenvolvedor back-end. Hoje em dia meu foco está em aprender cada vez mais sobre a linguagem JAVA e tudo o que ela nos proporciona.</p>
+Atualmente trabalho na Prefeitura da Estância Turística de Salto como Estagiário de Desenvolvimento de Software, trabalho tanto com o desenvolvimento de novas features, correção de bugs e manutenção do código, quanto na parte de auxilio aos usuários ao sistema SVSA da Gaian.</p>
 
 </br>
 
